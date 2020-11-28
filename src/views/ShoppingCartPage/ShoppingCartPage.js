@@ -42,7 +42,7 @@ export default function ShoppingCartPage() {
   return (
     <div>
       <Header
-        brand="Material Kit PRO React"
+        brand="Creativo Rare"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         color="transparent"

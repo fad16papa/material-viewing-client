@@ -116,7 +116,7 @@ export default function ContactUsPage() {
   return (
     <div>
       <Header
-        brand="Material Kit PRO React"
+        brand="Creativo Rare"
         links={<HeaderLinks dropdownHoverColor="dark" />}
         fixed
         color="dark"

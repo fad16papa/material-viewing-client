@@ -56,7 +56,7 @@ export default function SignUpPage({ ...rest }) {
       <Header
         absolute
         color="transparent"
-        brand="Material Kit PRO React"
+        brand="Creativo Rare"
         links={<HeaderLinks dropdownHoverColor="rose" />}
         {...rest}
       />
