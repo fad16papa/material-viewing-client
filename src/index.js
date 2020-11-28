@@ -58,7 +58,7 @@ ReactDOM.render(
       <Route path="/shopping-cart-page" component={ShoppingCartPage} />
       <Route path="/signup-page" component={SignupPage} />
       <Route path="/error-page" component={ErrorPage} />
-      <Route path="/" component={AboutUsPage} />
+      <Route path="/" component={EcommercePage} />
     </Switch>
   </Router>,
   document.getElementById("root")
